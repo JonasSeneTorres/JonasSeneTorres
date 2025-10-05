@@ -53,12 +53,17 @@ AWS (EC2, S3, Lambda) · Docker · Git · CI/CD · SonarQube
 
 📘 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – Faculdade Estácio  
 
-🏅 Certificações:
+🏅 Certificações e Cursos Relevantes:
 - Scrum Foundation Professional Certificate (SFPC)
 - Engenharia de Software – Alura  
 - Acessibilidade Web – Alura  
 - Bootcamp AWS Cloud – Cloud Treinamentos  
 - Formação em Liderança – Conquer  
-- Transformação Digital – MIT / Santander  
+- Transformação Digital – MIT / Santander
+- Introdução a Arquitetura Hexagonal - Udemy
+- Desenvolvimento WEB com ES6 / Typescript e Angular – Udemy
+- Construindo Aplicações em Contextos Delimitados – Balta.io
+- Modelando Modelos Ricos – Balta.io
+    - Demais cursos disponíveis em perfil do LinkedIn.
 
 
