@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Jonas Sene Torres
 
 💻 **Tech Lead | Full Stack Developer**  
-🚀 Especialista em **Angular, .NET, Node.js e AWS**, forte vivencia em **.Net** e **Node.js** e conhecimentos práticos em **AWS**.   
+🚀 Especialista em **Angular**, forte vivencia em **.Net** e **Node.js** e conhecimentos práticos em **AWS**.   
 🌎 São Paulo / SP, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/jonas-sene-torres)
 
