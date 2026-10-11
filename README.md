@@ -35,6 +35,9 @@ AWS (EC2, S3, Lambda) · Docker · Git · CI/CD · SonarQube
 
 ### 🧭 Experiência Recente
 
+- **Solutis Tecnologias** — *Lider Técnico* (2025 - Até o momento)  
+  Desenvolvimento de soluções bancárias com foco em automação com IA. Desenvolvimento de PoC, Projetos de Modernização de projetos legados para linguagens de mercado. Liderança Tecnica, code reviews e mentoria.
+
 - **Stefanini Group** — *Especialista Front End* (2024 – 2025)  
   Desenvolvimento e sustentação de soluções bancárias com foco em acessibilidade e performance.  
 
