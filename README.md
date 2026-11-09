@@ -1,72 +1,58 @@
 # 👋 Olá, eu sou o Jonas Sene Torres
 
-💻 **Tech Lead | Full Stack Developer**  
-🚀 Especialista em **Angular**, forte vivencia em **.Net** e **Node.js** e conhecimentos práticos em **AWS**.   
-🌎 São Paulo / SP, Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/jonas-sene-torres)
+💻 **Tech Lead | Desenvolvedor Full Stack**  
+🚀 Angular · .NET · Node.js · IA aplicada  
+🌎 São Paulo, SP  
+🔗 [LinkedIn](https://www.linkedin.com/in/jonas-sene-torres/)
 
 ---
 
 ### 💡 Sobre mim
 
-Sou **Tech Lead** com mais de **17 anos de experiência** em desenvolvimento web, atuando em projetos de alta complexidade nos setores **bancário e corporativo** (Itaú, Santander).  
-Tenho paixão por **arquitetura de soluções escaláveis**, **acessibilidade digital** e **formação de equipes de alta performance**, sempre aplicando práticas como **DDD**, **SOLID**, **Clean Code** e **TDD**.
+Tech Lead e desenvolvedor full stack com mais de **18 anos** de experiência em projetos de alta complexidade nos setores **bancário, financeiro, aéreo e corporativo**.
+Hoje lidero um squad em soluções orientadas a **IA**: modernização de sistemas legados, automação inteligente de processos e provas de conceito.
+Gosto de **arquitetura de soluções**, **acessibilidade digital** (WCAG 2 AA) e de formar times, com **DDD**, **SOLID**, **Clean Code** e **TDD**.
+
+> Meu trabalho profissional é confidencial, então a maior parte do meu código não está aqui. Os repositórios abaixo são projetos pessoais e de estudo.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
-**Front-end:**  
-Angular · TypeScript · JavaScript · HTML · CSS · SASS · Bootstrap · Acessibilidade Web  
-
-**Back-end:**  
-.NET (C#, ASP.NET MVC / Web API) · Node.js · REST APIs  
-
-**Banco de Dados:**  
-SQL Server · Oracle · PostgreSQL · MySQL · MongoDB · Firebase · DynamoDB  
-
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda) · Docker · Git · CI/CD · SonarQube  
-
-**Arquitetura & Boas Práticas:**  
- Clean Architecture · DDD · SOLID · Microsserviços · Testes Unitários · TDD  
+**Front-end:** Angular · TypeScript · JavaScript · HTML · CSS · SASS · Acessibilidade Web  
+**Back-end:** .NET (C#, ASP.NET MVC / Web API) · Node.js · Python · APIs REST  
+**IA:** Claude Code · Kiro · Devin · LLMs · orquestração de agentes · Spec-Driven Development · AI-DLC  
+**Dados:** SQL Server · Oracle · PostgreSQL · MySQL · MongoDB · Firebase · Power BI  
+**Cloud & DevOps:** AWS · Docker · Git · CI/CD · SonarQube  
+**Arquitetura:** Clean Architecture · DDD · SOLID · Microsserviços · Arquitetura Hexagonal · Testes Unitários · TDD
 
 ---
 
-### 🧭 Experiência Recente
+### 🧪 Projetos pessoais
 
-- **Solutis Tecnologias** — * Tech Lead* (2025 - Até o momento)  
-  Desenvolvimento de soluções bancárias com foco em automação com IA. Desenvolvimento de PoC, Projetos de Modernização de projetos legados para linguagens de mercado. Liderança Tecnica, code reviews e mentoria.
+- [**Bat Launcher**](https://github.com/JonasSeneTorres/bat-launcher): painel para Windows que transforma arquivos `.bat` em botões e liga ou desliga serviços com um clique. Contraste WCAG 2.2 AA.
+- [**DS Viewer – Open Design**](https://github.com/JonasSeneTorres/ds-viewer-open-design): catálogo navegável de 143 temas de design system, com modo claro/escuro, paletas e tokens. HTML, CSS e JS puros. [Demo](https://jonassenetorres.github.io/ds-viewer-open-design/).
 
-- **Stefanini Group** — *Especialista Front End* (2024 – 2025)  
-  Desenvolvimento e sustentação de soluções bancárias com foco em acessibilidade e performance.  
-
-- **MJV Technology & Innovation** — *Tech Lead Front End* (2022 – 2024)  
-  Liderança técnica, code reviews, treinamentos e disseminação de boas práticas.  
-
-- **BRQ Digital Solutions** — *Desenvolvedor Full Stack* (2017 – 2022)  
-  Desenvolvimento de aplicações web/mobile e implementação de TDD e acessibilidade.  
-
-- **E-Deploy** — *Desenvolvedor .NET* (2017 – 2022)  
-   Soluções para o setor Aéreo com foco em Sistemas Críticos e refatoração de sistemas legados.
-  
 ---
 
-### 🎓 Formação & Certificações
+### 🧭 Experiência recente
 
-📘 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – Faculdade Estácio  
+- **Solutis Tecnologias**: Engenheiro de Software Sênior II (2025 – atual)  
+  Liderança técnica de squad em IA: modernização de sistemas legados, automação inteligente de processos e PoCs.
+- **Stefanini Group**: Especialista Front-End (2024 – 2025)  
+  Soluções para o mercado bancário.
+- **MJV Technology & Innovation**: Tech Lead Front-End (2022 – 2024)  
+  Liderança técnica, acessibilidade, code review e mentoria.
+- **BRQ Digital Solutions**: Desenvolvedor Sênior Full Stack (2017 – 2022)  
+  Aplicações web e mobile para o mercado bancário, com acessibilidade (WCAG AA e AAA / e-MAG) e testes unitários.
+- **E-Deploy**: Desenvolvedor Pleno (2013 – 2016)  
+  Sistemas críticos para o setor aéreo.
 
-🏅 Certificações e Cursos Relevantes:
-- Scrum Foundation Professional Certificate (SFPC)
-- Engenharia de Software – Alura  
-- Acessibilidade Web – Alura  
-- Bootcamp AWS Cloud – Cloud Treinamentos  
-- Formação em Liderança – Conquer  
-- Transformação Digital – MIT / Santander
-- Introdução a Arquitetura Hexagonal - Udemy
-- Desenvolvimento WEB com ES6 / Typescript e Angular – Udemy
-- Construindo Aplicações em Contextos Delimitados – Balta.io
-- Modelando Modelos Ricos – Balta.io
-    - Demais cursos disponíveis em perfil do LinkedIn.
+---
 
+### 🎓 Formação
 
+📘 Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade Estácio de Sá (2025)  
+📘 Pós-graduação em Engenharia de Software, Descomplica (previsão: 2027)
+
+🏅 Alura (Engenharia de Software, Acessibilidade Web, IA), Bootcamp AWS Cloud, Formação em Liderança (Conquer). O restante está no LinkedIn.
