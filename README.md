@@ -59,7 +59,7 @@ Me interesso por **arquitetura de soluções**, **acessibilidade digital** (WCAG
 
 | Período | Empresa | Função |
 | :-- | :-- | :-- |
-| 2025 – atual | **Solutis Tecnologias** | Engenheiro de Software Sênior II · Tech Lead de time FDE (IA, modernização de legado, PoCs) |
+| 2025 – atual | **Solutis Tecnologias** | Tech Lead de time FDE (IA, modernização de legado, PoCs) |
 | 2024 – 2025 | **Stefanini Group** | Especialista Front-End · mercado bancário |
 | 2022 – 2024 | **MJV Technology & Innovation** | Tech Lead Front-End · liderança técnica, acessibilidade, mentoria |
 | 2017 – 2022 | **BRQ Digital Solutions** | Desenvolvedor Sênior Full Stack · mercado bancário, WCAG AA e AAA / e-MAG |
